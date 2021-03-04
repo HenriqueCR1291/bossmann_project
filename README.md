@@ -2,9 +2,14 @@
 
 Rossmann project is a kagle competition model
 
-"Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied."
-
+"Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance.
+Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. 
+With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied."
 Link to access: https://www.kaggle.com/c/rossmann-store-sales/overview
 
 Changes:
-# Module 04 - Start with Data Exploratory Analysis (Univariate (01/03 and Bivariate 02/03)
+
+Module 04 - Start with Data Exploratory Analysis Univariate 01/03
+            Start Bivariate 02/03
+            End Bivariate Analysis 03/03
+
