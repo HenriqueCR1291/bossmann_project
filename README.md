@@ -10,6 +10,7 @@ Link to access: https://www.kaggle.com/c/rossmann-store-sales/overview
 Changes:
 
 Module 04 - Start with Data Exploratory Analysis Univariate 01/03
-            Start Bivariate 02/03
-            End Bivariate Analysis 03/03
-
+         \n Start Bivariate 02/03
+         \n End Bivariate Analysis 03/03
+         \n End Multivariate Analysis 04/03
+         \n End module 04 03/03
