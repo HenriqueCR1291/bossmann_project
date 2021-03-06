@@ -9,6 +9,9 @@ Link to access: https://www.kaggle.com/c/rossmann-store-sales/overview
 
 Changes:
 
+Module 01 - Data description 26/02
+Module 02 - Feature Engineering 27/02
+Module 03 - Filtering variables 28/02
 Module 04 - Start with Data Exploratory Analysis Univariate 01/03
          \n Start Bivariate 02/03
          \n End Bivariate Analysis 03/03
