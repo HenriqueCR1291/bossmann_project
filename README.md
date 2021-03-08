@@ -17,4 +17,4 @@ Module 04 - Start with Data Exploratory Analysis Univariate 01/03
          \n End Bivariate Analysis 03/03
          \n End Multivariate Analysis 04/03
          \n End module 04 03/03
-         \n Start module 05 Data preparation 06/03 
+Module 05 - Start module 05 Data preparation 06/03 
